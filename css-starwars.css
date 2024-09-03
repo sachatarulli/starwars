@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.swred 
+{
+    background-color: red;   
+}
+.swblue
+{
+    background-color: blue;
+}
+#vader
+{
+    font-size: x-large;
+}
+#luke
+{
+    font-style: italic;
+}
+#soldado
+{
+    border-style: dashed;
+    letter-spacing: 0.4em;
+}
+.apoyo
+{
+    text-align: center;
+}
+#nave
+{
+    text-transform: uppercase;
+}
